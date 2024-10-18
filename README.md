@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @icysaber
+- 👀 I’m interested in Penetration Testing/ Red Teaming
+- 🌱 I’m currently learning Ethical Hacking both On-Prem and Cloud environments
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I'm a major NERD
